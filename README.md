@@ -1,6 +1,6 @@
 # Overview
 
-This program is a password keeper written using Java. It allows users to login with their username and password, after which they can add new passwords, view current passwords, and edit passwords as needed.
+This program is a password keeper written using Java. It allows users to login with their username and password, after which they can add new passwords, view current passwords, edit passwords as needed, delete passwords, and change their master login credentials.
 
 I wrote this program to demonstrate my ability to use Java, as well as create an app that I can use to store my passwords locally.
 
@@ -8,23 +8,24 @@ I wrote this program to demonstrate my ability to use Java, as well as create an
 
 # Development Environment
 
-* Visual Studio Code.
+* Visual Studio Code
 
-*
+* Java (JDK 23)
 
-{Describe the programming language that you used and any libraries.}
+* Various Java classes including Scanner, HashMap, and FileWriter
+
+* Git / Github
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Oracle](https://docs.oracle.com/javase/tutorial/java/)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/java/)
+- [W3 Schools](https://www.w3schools.com/java/)
+- [CodeJava](https://www.codejava.net/java-core-tutorials)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Implement more methods into my classes, rather than writing them in the main program file
+- Go back and close Scanners that read user input
+- Write a method that allows the user to switch files if they have multiple files
