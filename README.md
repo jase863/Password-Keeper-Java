@@ -4,7 +4,7 @@ This program is a password keeper written using Java. It allows users to login w
 
 I wrote this program to demonstrate my ability to use Java, as well as create an app that I can use to store my passwords locally.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jvbrJgviaa0)
 
 # Development Environment
 
